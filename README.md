@@ -28,23 +28,34 @@ Overall Performance:
 
 Regional Breakdown
 
-<img width="1821" height="1098" alt="Screenshot 2025-07-07 230040" src="https://github.com/user-attachments/assets/c516a698-1855-4376-9120-ff4be9b73100" />
+<img width="479" height="667" alt="image" src="https://github.com/user-attachments/assets/3075b123-4075-4552-b69a-9b762fa3aa84" />
+
 
 
 Top 5 Region based on Revenue
 
+<img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/c14ba114-8c4a-42b2-a136-90f2368817a1" />
 
-<img width="383" height="533" alt="Screenshot 2025-07-07 232623" src="https://github.com/user-attachments/assets/ab83dc7b-b375-4c6b-b252-e75c73fcef23" />
 
 
 Mode of Sales
 
-<img width="699" height="597" alt="Screenshot 2025-07-07 232041" src="https://github.com/user-attachments/assets/05f83d55-6f00-47ab-b5d4-cd53c520ea94" />
+
+<img width="521" height="445" alt="image" src="https://github.com/user-attachments/assets/08fcc338-d3db-4e17-a727-cbfc238f83f8" />
 
 
 Product Performance
 
-<img width="670" height="1012" alt="Screenshot 2025-07-07 233613" src="https://github.com/user-attachments/assets/3f88d066-f469-40a9-a1c7-055d537e6f59" />
+
+<img width="460" height="694" alt="image" src="https://github.com/user-attachments/assets/b2e5d8ab-0421-479e-bde7-89219bd8fca1" />
+
+
+Profit Margin Based on Categories
+
+
+<img width="605" height="463" alt="image" src="https://github.com/user-attachments/assets/3e3c98f0-f0ae-4861-8bdc-2a7a5082e468" />
+
+
 
 ### Insights: 
 
